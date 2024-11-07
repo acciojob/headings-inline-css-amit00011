@@ -1,24 +1,25 @@
 /*  your css code here. If applicable */
-h1{
-	color:  #2a7ae2
+/* #a{
+    font-size: 60px;
+    color: #2a7ae2
 }
-
-h2{
-	color:  #f44336
+#b{
+    font-size: 50px;
+    color: #f44336;
 }
-
-h3{
-	color: #4caf50
+#c{
+    font-size: 40px;
+    color: #4caf50;
 }
-
-h4{
-	color:  #ff9800
+#d{
+    font-size: 30px;
+    color: #ff9800;
 }
-
-h5{
-	color:  #607d8b
+#e{
+    font-size: 20px;
+    color: #607d8b;
 }
-
-h6{
-	color: : #ffeb3b
+#f{
+    font-size: 10px;
+    color: #ffeb3b;
 }
